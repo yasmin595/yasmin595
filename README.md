@@ -1,3 +1,6 @@
+<img src="[https://your-image-link.com/banner.png](https://i.ibb.co/cKKsd2Zc/download-3.jpg)" alt="Banner" width="100%" />
+
+
 # 💫 About Me:
 ## 👩‍💻 About Me<br><br>Hi! I'm Suborna Yasmin – a passionate learner and aspiring web developer from Bangladesh.  <br>Currently, I'm exploring the MERN stack (MongoDB, Express.js, React.js, Node.js) and Firebase.  <br>I love building real-world projects that solve real problems.  <br>Always excited to learn new technologies and grow step by step.
 
