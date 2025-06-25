@@ -1,4 +1,4 @@
-<img src="[https://your-image-link.com/banner.png](https://i.ibb.co/cKKsd2Zc/download-3.jpg)" alt="Banner" width="100%" />
+<img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
 
 
 # 💫 About Me:
